@@ -27,9 +27,8 @@ Output
 
 ```
 ~ $ python3 serve_files.py
-Server is listening on 192.168.12.34 on port 8080.
+Server is listening on 192.168.12.34 on port 1234.
 ```
 
-From another device on the same network use a browser to navigate to
-
-http://192.168.12.34:8080
+From another device on the same network use a browser to navigate to IP address of where you are running your python server.
+My laptop's IP address is 192.168.12.34 on port 1234 so on my phone I navigate to http://192.168.12.34:1234 .
